@@ -16,6 +16,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'birthday.apps.BirthdayConfig',
+    'django_bootstrap5',
     'pages.apps.PagesConfig',
 ]
 
